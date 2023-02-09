@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Applications Documents Dropbox Movies Pictures
-Desktop  Downloads Libary Music Public"
+echo "Applications Documents Dropbox Movies Pictures Desktop  Downloads Libary Music Public"
