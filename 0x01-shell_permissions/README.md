@@ -1,1 +1,1 @@
-add permissions
+setting mode file
