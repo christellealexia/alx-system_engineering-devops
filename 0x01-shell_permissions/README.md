@@ -1,1 +1,1 @@
-effective username
+shell permission
