@@ -1,2 +1,2 @@
 #!/bbin/bash
-tr 'AC' 'Ze'
+tr  'AC'  'Ze'
