@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -C "in" /etc/passwd
+egrep  -C "in" /etc/passwd
