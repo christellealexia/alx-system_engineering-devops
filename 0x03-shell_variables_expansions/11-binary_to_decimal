@@ -1,2 +1,2 @@
 #!/bin/bash
-eho $(([10]$BINARY))
+echo $((2#$BINARY))
